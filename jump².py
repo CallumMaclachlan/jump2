@@ -17,9 +17,9 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Jump²')
 screen.fill('Black')
 clock = pygame.time.Clock()
-pixel_font = pygame.font.Font("C:Desktop/Python Projects/jump2/pixel.ttf", 50)
-small_pixel_font = pygame.font.Font("C:Desktop/Python Projects/jump2/pixel.ttf", 20)
-big_pixel_font = pygame.font.Font("C:Desktop/Python Projects/jump2/pixel.ttf", 100)
+pixel_font = pygame.font.Font("C:/Users/varan/Desktop/IT Portfolio/Code/jump2/pixel.ttf", 50)
+small_pixel_font = pygame.font.Font("C:/Users/varan/Desktop/IT Portfolio/Code/jump2/pixel.ttf", 20)
+big_pixel_font = pygame.font.Font("C:/Users/varan/Desktop/IT Portfolio/Code/jump2/pixel.ttf", 100)
 game_active = False
 start_time = 0
 score = 0
